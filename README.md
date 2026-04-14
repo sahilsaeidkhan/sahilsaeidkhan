@@ -1,1 +1,3 @@
-### "Keep pushing boundaries — the best code is written tomorrow."
+
+### "Code is like humor. When you have to explain it, it's bad." — Cory House
+
