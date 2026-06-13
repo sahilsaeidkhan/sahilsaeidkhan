@@ -1,26 +1,31 @@
-# Sahil Saeid
+<div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad."
->
-> — Cory House
+# "Code is like humor. When you have to explain it, it's bad."
+
+### — Cory House
+
+</div>
 
 ---
 
-## 📊 Overview
+## 🔥 Total Contributions This Year
 
-### 🔥 Total Contributions This Year
-**715+ Contributions**
+<!-- CONTRIBUTIONS_THIS_YEAR_START -->
+0
+<!-- CONTRIBUTIONS_THIS_YEAR_END -->
 
-### 🌍 Open Source Contributions
-**700+ Contributions**
+## 🌍 Open Source Contributions
 
-### 🚀 Total Projects
-**22+ Projects**
+<!-- OPEN_SOURCE_CONTRIBUTIONS_START -->
+0
+<!-- OPEN_SOURCE_CONTRIBUTIONS_END -->
+
+## 🚀 Total Projects
+
+<!-- TOTAL_PROJECTS_START -->
+0
+<!-- TOTAL_PROJECTS_END -->
 
 🔗 **[View All Projects](https://github.com/sahilsaeidkhan?tab=repositories)**
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilsaeidkhan&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
