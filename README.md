@@ -1,31 +1,21 @@
 <div align="center">
 
-# "Code is like humor. When you have to explain it, it's bad."
+# *"Code is like humor. When you have to explain it, it's bad."*
 
 ### — Cory House
 
 </div>
 
----
+<br>
 
-## 🔥 Total Contributions This Year
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilsaeidkhan&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
+</p>
 
-<!-- CONTRIBUTIONS_THIS_YEAR_START -->
-0
-<!-- CONTRIBUTIONS_THIS_YEAR_END -->
+<br>
 
-## 🌍 Open Source Contributions
+<div align="center">
 
-<!-- OPEN_SOURCE_CONTRIBUTIONS_START -->
-0
-<!-- OPEN_SOURCE_CONTRIBUTIONS_END -->
+### 🔗 [View All Projects](https://github.com/sahilsaeidkhan?tab=repositories)
 
-## 🚀 Total Projects
-
-<!-- TOTAL_PROJECTS_START -->
-0
-<!-- TOTAL_PROJECTS_END -->
-
-🔗 **[View All Projects](https://github.com/sahilsaeidkhan?tab=repositories)**
-
----
+</div>
