@@ -8,33 +8,23 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 🔥
 
-## 715+
+## 720+
 
-**Contributions This Year**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌍
-
-## 700+
-
-**Open Source Contributions**
+Contributions This Year
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 🚀
 
-## 22+
+## 22
 
-**Projects**
+Projects
 
 </td>
 </tr>
